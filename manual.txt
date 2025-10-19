@@ -1,0 +1,9 @@
+You need:
+
+1. Dist folder from npm run build
+
+2. backend folder with htaccess, modified conn and email config
+
+3. vendor for qr and barcode scanning.
+
+4. htaccess for dist
