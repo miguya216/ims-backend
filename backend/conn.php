@@ -30,6 +30,7 @@ try {
 
 // Change only this when moving from local → hosting
 // define("BASE_STORAGE_PATH", $_SERVER['DOCUMENT_ROOT'] . '/IMS-REACT/frontend/public/');
-define("BASE_STORAGE_PATH", $_SERVER['DOCUMENT_ROOT'] . '/'); // for hosting
+
+define("BASE_STORAGE_PATH", $_SERVER['DOCUMENT_ROOT'] . '/'); // for hosting (barcode and qrcode directory)
 
 ?>
